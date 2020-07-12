@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working at Altran
+- 💬 Ask me about Node or Dart
+- 📫 How to reach me: [Telegram](https://t.me/RogerioSobrinho) or [Gmail](mailto:rogerioa.sobrinho@gmail.com?subject=[GitHub])
+
+<p align="center">
+	<a href="https://github.com/RogerioSobrinho"><img src="https://img.shields.io/github/followers/RogerioSobrinho.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/rogerio-sobrinho"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+<!--no
 **RogerioSobrinho/RogerioSobrinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
