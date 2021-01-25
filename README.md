@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Altran
 - 💬 Ask me about Node or Dart
 - 📫 How to reach me: [Telegram](https://t.me/RogerioSobrinho) or [Gmail](mailto:rogerioa.sobrinho@gmail.com?subject=[GitHub])
 
